@@ -8,7 +8,7 @@ tags: about
 ![hacker](https://i.loli.net/2019/01/11/5c37821e86ee2.jpg)
 
 ## 自我描述
-
+---
 80后软件工程师（程序员）一枚
 
 发际线很低，头发茂盛
@@ -17,16 +17,15 @@ tags: about
 
 喜欢模型，养花花草草，小动物, 喜欢大自然，喜欢钓鱼（从来没去过）
 
-
 ## 生存技能
-
+---
 * 语言
   > `ruby` `python` `c#` `vb.net` `java` `elixir` `php` `javascript`
 * 开发工具
   > `neovim` `vscode` `github` `tower` `eolinker` `oneapm`
 * 设备
   + 笔记本
-    > Macbook Pro late 2013 最低配
+  > Macbook Pro late 2013 最低配
   + 台式机
 
   | 名称   | 型号                          |

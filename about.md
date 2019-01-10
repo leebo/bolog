@@ -21,19 +21,12 @@ tags: about
 ## 生存技能
 
 * 语言
-
   > `ruby` `python` `c#` `vb.net` `java` `elixir` `php` `javascript`
-
 * 开发工具
-
   > `neovim` `vscode` `github` `tower` `eolinker` `oneapm`
-
 * 设备
-
   + 笔记本
-
     > Macbook Pro late 2013 最低配
-
   + 台式机
 
   | 名称   | 型号                          |

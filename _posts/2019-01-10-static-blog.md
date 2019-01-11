@@ -2,7 +2,7 @@
 layout:     post
 title:      静态页面blog
 date:       2019-01-10 01:39
-summary:    2019年重拾键盘开始书写第一篇blog
+summary:    博客的进化史，本站所用的框架
 categories: programming
 ---
 
@@ -16,6 +16,6 @@ categories: programming
 提供者让我们的生活如此简单。以后会坚持经常更新，记录生活，也记录技术成长。，
 我们需要的是真实的内容表现。
 
-  本站基于: jekyll + github + netlify
+  本站基于: `jekyll` + `github ` + `netlify`
 
-  编辑器: neovim
+  编辑器: `neovim`
